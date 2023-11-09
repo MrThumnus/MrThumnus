@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tom.
+- 👀 I’m interested in learning and understanding game development.
+- 🌱 I’m currently learning C# through unity.
